@@ -4,5 +4,5 @@ Demo:Hugging Face
 https://huggingface.co/spaces/miya808/yolov7
 
 
-![image](https://github.com/miyachun/yolov7/blob/main/demo.jpg)
+![image](https://github.com/miyachun/yolov7/blob/main/show.jpg)
 
